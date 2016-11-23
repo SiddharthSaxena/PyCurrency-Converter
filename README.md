@@ -56,6 +56,7 @@ sudo pip install urllib
 ####Get currency codes
 
 ```python
+>>> import PyCurrency_Converter
 >>> PyCurrency_Converter.codes()
 United Arab Emirates Dirham (AED)
 Afghan Afghani (AFN)
@@ -164,6 +165,7 @@ Mauritian Rupee (MUR) .......
 ####Get exchange rate
 
 ```python
+>>> import PyCurrency_Converter
 >>> PyCurrency_Converter.convert(1, 'USD', 'INR')
 68.8122 INR
 ```
@@ -171,5 +173,6 @@ Mauritian Rupee (MUR) .......
 #####General Format
 
 ```python
+>>> import PyCurrency_Converter
 >>> PyCurrency_Converter.convert(amount, from, to)
 ```
