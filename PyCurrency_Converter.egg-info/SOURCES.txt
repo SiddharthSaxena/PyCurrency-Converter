@@ -1,6 +1,6 @@
 setup.cfg
 setup.py
-PyCurrency-Converter/PyCurrency.py
+PyCurrency-Converter/PyCurrency_Converter.py
 PyCurrency-Converter/__init__.py
 PyCurrency_Converter.egg-info/PKG-INFO
 PyCurrency_Converter.egg-info/SOURCES.txt
