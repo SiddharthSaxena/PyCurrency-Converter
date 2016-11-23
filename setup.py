@@ -1,28 +1,27 @@
 from setuptools import setup
 setup(
-    name='PyCurrency',
-    packages=['PyCurrency'],
+    name='PyCurrency-Converter',
+    packages=['PyCurrency-Converter'],
     version='1.0',
-    license='GNU GPL-3.0 License',
+    license='GNU General Public License v3 (GPLv3)',
     requires='BeautifulSoup',
     description='A library to convert currency using Google Finance.',
-    long_description='Visit http://siddharthsaxena.weebly.com/pycurrency.html for more details.',
+    long_description='Visit http://siddharthsaxena.weebly.com/pycurrency-converter.html for more details.',
     author='Siddharth Saxena',
     author_email='siddharth.saxena25@gmail.com',
-    url='https://github.com/SiddharthSaxena/PyCurrency',
-    download_url='https://github.com/SiddharthSaxena/PyCurrency',
+    url='https://github.com/SiddharthSaxena/PyCurrency-Converter',
+    download_url='https://github.com/SiddharthSaxena/PyCurrency-Converter',
     keywords=['currency converter google'],
-    classifiers=['Development Status :: 1 - Release',
+    classifiers=['Development Status :: 5 - Stable',
                  'Topic :: Software Development :: Libraries',
-                 'License :: OSI Approved :: GNU GPL-3.0 License',
-                 'Programming Language :: Python :: 2'
-                 'Programming Language :: Python :: 2.6'
-                 'Programming Language :: Python :: 2.7'
-                 'Programming Language :: Python :: 3'
-                 'Programming Language :: Python :: 3.2'
-                 'Programming Language :: Python :: 3.3'
-                 'Programming Language :: Python :: 3.4'
+                 'License :: OSI Approved :: GNU General Public License v3 (GPLv3)',
+                 'Programming Language :: Python :: 2',
+                 'Programming Language :: Python :: 2.6',
+                 'Programming Language :: Python :: 2.7',
+                 'Programming Language :: Python :: 3',
+                 'Programming Language :: Python :: 3.2',
+                 'Programming Language :: Python :: 3.3',
+                 'Programming Language :: Python :: 3.4',
                  'Programming Language :: Python :: 3.5'
-                 'Programming Language :: Python :: 3.6-dev'
-                 'Programming Language :: Python :: 3.7-dev']
+                 ]
 )

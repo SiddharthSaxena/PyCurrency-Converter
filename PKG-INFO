@@ -10,7 +10,7 @@ Download-URL: https://github.com/SiddharthSaxena/PyCurrency
 Description: A library to convert currency using Google Finance.
 Keywords: currency converter google
 Platform: UNKNOWN
-Classifier: Development Status :: 1 - Release
+Classifier: Development Status :: 1 - Stable
 Classifier: Topic :: Software Development :: Libraries
 Classifier: License :: OSI Approved :: GNU GPL-3.0 License
 Classifier: Programming Language :: Python :: 2
