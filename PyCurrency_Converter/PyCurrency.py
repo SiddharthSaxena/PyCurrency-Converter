@@ -8,7 +8,6 @@ except ImportError:
     import BeautifulSoup
 
 
-# Add feature to print codes of different currency conversion available at Google Finance.
 class PyCurrency:
     @staticmethod
     def convert(amount, _from, _to):
