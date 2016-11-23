@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/SiddharthSaxena/PyCurrency-Converter.svg?branch=master)](https://travis-ci.org/SiddharthSaxena/PyCurrency-Converter)&nbsp;&nbsp;[![Github Release](https://img.shields.io/badge/version-v1.0-red.svg?maxAge=3600&&style=flat)](https;//github.com/SiddharthSaxena/PyCurrency-Converter/releases/tag/v1.0)&nbsp;&nbsp;[![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg?maxAge=3600&&style=flat)](https://github.com/SiddharthSaxena/PyCurrency-Converter/blob/master/LICENSE)
 
-A python [library]() to convert currency using [Google Finance](https://www.google.com/finance).
+A python [library](https://pypi.python.org/pypi/PyCurrency-Converter) to convert currency using [Google Finance](https://www.google.com/finance).
 
 ---
 
