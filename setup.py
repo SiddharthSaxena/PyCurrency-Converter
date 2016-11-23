@@ -5,7 +5,7 @@ setup(
     version='1.0',
     license='GNU General Public License v3 (GPLv3)',
     requires='BeautifulSoup',
-    description='A library to convert currency using Google Finance.',
+    description='A python library to convert currency using Google Finance.',
     long_description='Visit http://siddharthsaxena.weebly.com/pycurrency-converter.html for more details.',
     author='Siddharth Saxena',
     author_email='siddharth.saxena25@gmail.com',
