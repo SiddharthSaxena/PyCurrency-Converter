@@ -12,5 +12,17 @@ setup(
     url='https://github.com/SiddharthSaxena/PyCurrency',
     download_url='https://github.com/SiddharthSaxena/PyCurrency',
     keywords=['currency converter google'],
-    classifiers=[],
+    classifiers=['Development Status :: 1 - Release',
+                 'Topic :: Software Development :: Libraries',
+                 'License :: OSI Approved :: GNU GPL-3.0 License',
+                 'Programming Language :: Python :: 2'
+                 'Programming Language :: Python :: 2.6'
+                 'Programming Language :: Python :: 2.7'
+                 'Programming Language :: Python :: 3'
+                 'Programming Language :: Python :: 3.2'
+                 'Programming Language :: Python :: 3.3'
+                 'Programming Language :: Python :: 3.4'
+                 'Programming Language :: Python :: 3.5'
+                 'Programming Language :: Python :: 3.6-dev'
+                 'Programming Language :: Python :: 3.7-dev']
 )
