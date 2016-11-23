@@ -57,7 +57,7 @@ import PyCurrency_Converter
 
 ```python
 PyCurrency_Converter.convert(1, 'USD', 'INR')
-68.69
+68.69 INR
 ```
 
 #####General Format
