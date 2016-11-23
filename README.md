@@ -50,18 +50,53 @@ sudo pip install urllib
 ####Import
 
 ``` python
-import PyCurrency_Converter
+>>> import PyCurrency_Converter
+```
+
+####Get currency codes
+
+```python
+>>> PyCurrency_Converter.codes()
+United Arab Emirates Dirham (AED)
+Afghan Afghani (AFN)
+Albanian Lek (ALL)
+Armenian Dram (AMD)
+Netherlands Antillean Guilder (ANG)
+Angolan Kwanza (AOA)
+Argentine Peso (ARS)
+Australian Dollar (A$)
+Aruban Florin (AWG)
+Azerbaijani Manat (AZN)
+Bosnia-Herzegovina Convertible Mark (BAM)
+Barbadian Dollar (BBD)
+Bangladeshi Taka (BDT)
+Bulgarian Lev (BGN)
+Bahraini Dinar (BHD)
+Burundian Franc (BIF)
+Bermudan Dollar (BMD)
+Brunei Dollar (BND)
+Bolivian Boliviano (BOB)
+Brazilian Real (R$)
+Bahamian Dollar (BSD)
+Bitcoin (฿)
+Bhutanese Ngultrum (BTN)
+Botswanan Pula (BWP)
+BYN (BYN)
+Belarusian Ruble (BYR)
+Belize Dollar (BZD)
+Canadian Dollar (CA$)
+Congolese Franc (CDF) ......
 ```
 
 ####Get exchange rate
 
 ```python
-PyCurrency_Converter.convert(1, 'USD', 'INR')
-68.69 INR
+>>> PyCurrency_Converter.convert(1, 'USD', 'INR')
+68.8122 INR
 ```
 
 #####General Format
 
 ```python
-PyCurrency_Converter.convert(amount, from, to)
+>>> PyCurrency_Converter.convert(amount, from, to)
 ```
