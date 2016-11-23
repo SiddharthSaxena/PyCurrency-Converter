@@ -10,7 +10,7 @@ Download-URL: https://github.com/SiddharthSaxena/PyCurrency-Converter
 Description: Visit http://siddharthsaxena.weebly.com/pycurrency-converter.html for more details.
 Keywords: currency converter google
 Platform: UNKNOWN
-Classifier: Development Status :: 5 - Stable
+Classifier: Development Status :: 5 - Production/Stable
 Classifier: Topic :: Software Development :: Libraries
 Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
 Classifier: Programming Language :: Python :: 2
@@ -21,6 +21,4 @@ Classifier: Programming Language :: Python :: 3.2
 Classifier: Programming Language :: Python :: 3.3
 Classifier: Programming Language :: Python :: 3.4
 Classifier: Programming Language :: Python :: 3.5
-Classifier: Programming Language :: Python :: 3.6-dev
-Classifier: Programming Language :: Python :: 3.7-dev
 Requires: BeautifulSoup
