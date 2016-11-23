@@ -1,0 +1,7 @@
+setup.py
+PyCurrency/PyCurrency.py
+PyCurrency/__init__.py
+PyCurrency.egg-info/PKG-INFO
+PyCurrency.egg-info/SOURCES.txt
+PyCurrency.egg-info/dependency_links.txt
+PyCurrency.egg-info/top_level.txt
