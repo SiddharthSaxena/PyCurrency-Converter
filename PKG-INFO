@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: PyCurrency
+Version: 1.0.0
+Summary: A library to convert currency using Google Finance.
+Home-page: http://siddharthsaxena.weebly.com/pycurrency.html
+Author: Siddharth Saxena
+Author-email: siddharth.saxena25@gmail.com
+License: GNU GPL-3.0 License
+Download-URL: https://github.com/SiddharthSaxena/PyCurrency
+Description: A library to convert currency using Google Finance.
+Keywords: currency converter google
+Platform: UNKNOWN
