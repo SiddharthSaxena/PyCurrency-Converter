@@ -1,7 +1,7 @@
 from setuptools import setup
 setup(
     name='PyCurrency-Converter',
-    packages=['PyCurrency-Converter'],
+    packages=['PyCurrency_Converter'],
     version='1.0',
     license='GNU General Public License v3 (GPLv3)',
     requires='BeautifulSoup',
