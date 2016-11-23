@@ -158,7 +158,7 @@ Myanmar Kyat (MMK)
 Mongolian Tugrik (MNT)
 Macanese Pataca (MOP)
 Mauritanian Ouguiya (MRO)
-Mauritian Rupee (MUR)
+Mauritian Rupee (MUR) .......
 ```
 
 ####Get exchange rate
