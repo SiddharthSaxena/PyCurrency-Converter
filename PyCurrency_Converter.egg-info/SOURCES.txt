@@ -1,0 +1,8 @@
+setup.cfg
+setup.py
+PyCurrency-Converter/PyCurrency.py
+PyCurrency-Converter/__init__.py
+PyCurrency_Converter.egg-info/PKG-INFO
+PyCurrency_Converter.egg-info/SOURCES.txt
+PyCurrency_Converter.egg-info/dependency_links.txt
+PyCurrency_Converter.egg-info/top_level.txt
