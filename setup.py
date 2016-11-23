@@ -2,7 +2,7 @@ from setuptools import setup
 setup(
     name='PyCurrency',
     packages=['PyCurrency'],
-    version='1.0.0',
+    version='1.0',
     license='GNU GPL-3.0 License',
     requires='BeautifulSoup',
     description='A library to convert currency using Google Finance.',
