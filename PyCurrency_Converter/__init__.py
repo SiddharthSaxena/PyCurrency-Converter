@@ -1,1 +1,1 @@
-from .PyCurrency import get, convert
+from .PyCurrency import convert

@@ -19,5 +19,6 @@ class PyCurrency:
         parsed = parser.body.find('span', attrs={'class': 'bld'}).text
         return parsed
 
+
 def convert(amount, _from, _to):
     return PyCurrency.convert(amount, _from, _to)
