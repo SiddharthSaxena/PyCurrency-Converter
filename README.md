@@ -6,6 +6,12 @@ A python [library](https://pypi.python.org/pypi/PyCurrency-Converter) to convert
 
 ---
 
+* [Installation](#installation)
+* [Dependencies](#dependencies)
+* [Usage](#usage)
+
+---
+
 ###Installation
 
 For Python 2 users:
