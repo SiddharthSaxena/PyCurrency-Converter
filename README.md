@@ -168,7 +168,7 @@ Mauritanian Ouguiya (MRO)
 Mauritian Rupee (MUR) .......
 ```
 
-####Get exchange rate
+#### Get exchange rate
 
 ```python
 >>> import PyCurrency_Converter
@@ -176,7 +176,7 @@ Mauritian Rupee (MUR) .......
 68.8122 INR
 ```
 
-#####General Format
+##### General Format
 
 ```python
 >>> import PyCurrency_Converter
