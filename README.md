@@ -12,7 +12,7 @@ A python [library](https://pypi.python.org/pypi/PyCurrency-Converter) to convert
 
 ---
 
-###Installation
+### Installation
 
 For Python 2 users:
 
@@ -35,7 +35,7 @@ python setup.py install
 
 ---
 
-###Dependencies
+### Dependencies
 
 * BeautifulSoup
 
@@ -51,15 +51,15 @@ sudo pip install urllib
 
 ---
 
-###Usage
+### Usage
 
-####Import
+#### Import
 
 ``` python
 >>> import PyCurrency_Converter
 ```
 
-####Get currency codes
+#### Get currency codes
 
 ```python
 >>> import PyCurrency_Converter
